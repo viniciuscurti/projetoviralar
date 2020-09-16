@@ -29,6 +29,9 @@ gem 'redis', '~> 4.0'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'devise'
+gem 'remotipart'
+gem 'rails_admin'
+gem 'rails_admin_rollincode'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
